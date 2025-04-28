@@ -9,8 +9,8 @@ permissions:
   contents: read
 
 env:
-  GHCR_REGISTRY: ghcr.io/supercorp-ai
-  DOCKERHUB_REGISTRY: docker.io/supercorp
+  GHCR_REGISTRY: ghcr.io/sibbl
+  DOCKERHUB_REGISTRY: docker.io/sibbl
 
 jobs:
   publish:
